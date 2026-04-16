@@ -1,32 +1,43 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Alex Mendoza | Data Analytics Portfolio
 
+Hi, I’m Alex Mendoza — a Data Analyst with a background in finance and operations.  
+I specialize in Excel, SQL, and data visualization to turn raw data into actionable business insights.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## 📊 About This Portfolio
+This portfolio showcases projects focused on:
+- Data analysis & visualization
+- Financial performance insights
+- Process improvement & automation
+- Real-world business problem solving
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🧰 Tools & Skills
+- **Tools:** Excel, SQL Server, Tableau, Power BI  
+- **Skills:** Data Cleaning, Dashboarding, Financial Analysis, KPI Tracking, Process Optimization  
 
-(* = not included)
+## 📁 Featured Projects
 
-AJ
-aj@lkn.io | @ajlkn
+### 🔹 Data Process Improvement (WestCare)
+- Streamlined data collection using Google Forms and Excel
+- Reduced manual data entry and improved reporting efficiency
+- Increased data accuracy and consistency across reports
 
+### 🔹 Financial & Revenue Analysis
+- Analyzed revenue trends and performance metrics
+- Identified key drivers impacting financial results
+- Delivered insights to support operational decisions
 
-Credits:
+### 🔹 SQL Data Analysis Projects
+- Queried and analyzed datasets to uncover trends and patterns
+- Built structured queries to support reporting and decision-making
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 📈 Key Impact
+- Improved data entry and reporting efficiency  
+- Reduced errors through process standardization  
+- Delivered insights used for business decision-making  
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## 🌐 Live Portfolio
+👉 https://helloalexmendoza.github.io/AlexDoesAnalytics.github.io/
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📬 Contact
+- LinkedIn: www.linkedin.com/in/alex-mendoza-0a7b53132
+- Email: Hello.alexmendoza@outlook.com

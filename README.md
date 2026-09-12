@@ -1,43 +1,56 @@
 # Alex Mendoza | Data Analytics Portfolio
 
-Hi, I’m Alex Mendoza — a Data Analyst with a background in finance and operations.  
-I specialize in Excel, SQL, and data visualization to turn raw data into actionable business insights.
+Data analyst with a background in **finance, operations, and data management**, focused on transforming raw data into accurate, useful business insights. My work combines hands-on business experience with technical skills in **Excel, SQL, Power Query, Power BI, and Tableau**.
 
-## 📊 About This Portfolio
-This portfolio showcases projects focused on:
-- Data analysis & visualization
-- Financial performance insights
-- Process improvement & automation
-- Real-world business problem solving
+This portfolio highlights projects involving data cleaning, analysis, visualization, reporting, process improvement, and business decision support.
 
-## 🧰 Tools & Skills
-- **Tools:** Excel, SQL Server, Tableau, Power BI  
-- **Skills:** Data Cleaning, Dashboarding, Financial Analysis, KPI Tracking, Process Optimization  
+## 🧰 Technical Skills
 
-## 📁 Featured Projects
+- **Excel:** data analysis, PivotTables, XLOOKUP, SUMIFS, data validation, conditional formatting, dashboards
+- **Power Query:** data cleaning, transformation, ETL workflows, automated refresh processes
+- **SQL:** filtering, aggregation, grouping, data exploration, reporting queries
+- **Visualization:** Power BI, Tableau, KPI tracking, dashboards
+- **Business Analysis:** financial analysis, variance analysis, quality control, process improvement
 
-### 🔹 Data Process Improvement (WestCare)
-- Streamlined data collection using Google Forms and Excel
-- Reduced manual data entry and improved reporting efficiency
-- Increased data accuracy and consistency across reports
+## 📊 Featured Projects
 
-### 🔹 Financial & Revenue Analysis
-- Analyzed revenue trends and performance metrics
-- Identified key drivers impacting financial results
-- Delivered insights to support operational decisions
+### Healthcare Data Tableau Dashboard
+Built an interactive Tableau dashboard to explore healthcare trends and present key information in a clear, decision-friendly format.
 
-### 🔹 SQL Data Analysis Projects
-- Queried and analyzed datasets to uncover trends and patterns
-- Built structured queries to support reporting and decision-making
+**Skills demonstrated:** Tableau, data visualization, dashboard design, exploratory analysis
 
-## 📈 Key Impact
-- Improved data entry and reporting efficiency  
-- Reduced errors through process standardization  
-- Delivered insights used for business decision-making  
+### Education & Career Success — Excel Analysis
+Analyzed education and career-success data in Excel by cleaning and organizing the dataset, calculating key metrics, and creating visualizations to identify patterns affecting career outcomes.
 
-## 🌐 Live Portfolio
-👉 https://helloalexmendoza.github.io/AlexDoesAnalytics.github.io/
+**Skills demonstrated:** Excel, data cleaning, formulas, PivotTables, data visualization, analytical thinking
 
-## 📬 Contact
-- LinkedIn: www.linkedin.com/in/alex-mendoza-0a7b53132
-- Email: Hello.alexmendoza@outlook.com
+### Healthcare Data Exploration — SQL
+Used SQL to explore healthcare data and answer business-style questions involving patient demographics, medical conditions, admissions, billing, insurance providers, medications, and test results.
+
+**Skills demonstrated:** SQL, aggregation, filtering, GROUP BY, COUNT, SUM, AVG, data exploration
+
+## ⚙️ Real-World Data & Process Improvement
+
+In my professional work, I use data tools to improve reporting workflows, validate information, reduce repetitive manual processes, and make operational data easier to analyze. My experience includes building Excel-based reporting solutions, working with Power Query ETL processes, performing data quality checks, and developing KPI-focused reporting tools.
+
+> Professional examples are described at a high level to protect confidential organizational and client information.
+
+## 🎯 What I'm Building Next
+
+I'm continuing to expand this portfolio with projects demonstrating:
+
+- Advanced SQL, including joins and more complex analysis
+- Python for data analytics
+- Power BI dashboard development
+- Automated Excel and Power Query reporting workflows
+- Financial and operational analytics
+
+## 🌐 Portfolio
+
+**Live Portfolio:** https://helloalexmendoza.github.io/AlexDoesAnalytics.github.io/
+
+## 📬 Connect
+
+**LinkedIn:** https://www.linkedin.com/in/alex-mendoza-0a7b53132/
+
+**Email:** Hello.AlexMendoza@outlook.com
